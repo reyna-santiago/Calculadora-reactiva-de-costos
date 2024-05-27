@@ -1,0 +1,10 @@
+body{
+    font-family: 'Mali', cursive;
+    background-color: #fffec2;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: tomato;
+    font-size: 50px;
+}
